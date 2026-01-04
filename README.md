@@ -1,5 +1,4 @@
-# Hi there, I'm Aprajita! 
- Python Developer |  Game Creator  
+# Hi there, I'm Aprajita!   
 I turn logic into interactive experiences. Passionate about building Python-based tools and games that challenge the mind and simplify life.  
 
 ##  Featured Projects
