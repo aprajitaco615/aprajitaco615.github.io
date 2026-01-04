@@ -1,5 +1,5 @@
 # Hi there, I'm Aprajita!   
-I turn logic into interactive experiences. Passionate about building Python-based tools and games that challenge the mind and simplify life.  
+Student | Python, MySql | Learning by Building  
 
 ##  Featured Projects
 ###  Verbum
