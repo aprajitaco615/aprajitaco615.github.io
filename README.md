@@ -1,17 +1,17 @@
-# Hi there, I'm Aprajita! 👋
-🐍 Python Developer | 🎲 Game Creator | 🏆 Hackathon Winner  
+# Hi there, I'm Aprajita! 
+ Python Developer |  Game Creator  
 I turn logic into interactive experiences. Passionate about building Python-based tools and games that challenge the mind and simplify life.  
 
-## 🚀 Featured Projects
-### 📚 Verbum
+##  Featured Projects
+###  Verbum
 
 A Python & MySQL powered word guessing game designed to sharpen your vocabulary.
 
-### 🔐 Caesar Cipher
+###  Caesar Cipher
 
 Encryption tool created for Innov8 Tech Fest.
 
-### ✅ Task Tracker
+###  Task Tracker
 
 A productivity tool built to manage daily tasks efficiently.
 
